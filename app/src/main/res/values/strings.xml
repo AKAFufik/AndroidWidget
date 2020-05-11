@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ClickWidget</string>
+    <string name="config">Set_date</string>
+    <string name="update">Update</string>
+    <string name="count">Count</string>
+    <string name="OK">OK</string>
+</resources>
